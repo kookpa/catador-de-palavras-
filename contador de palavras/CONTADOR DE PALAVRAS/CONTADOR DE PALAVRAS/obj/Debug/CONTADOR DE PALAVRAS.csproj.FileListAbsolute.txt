@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\bin\Debug\CONTADOR DE PALAVRAS.exe.config
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\bin\Debug\CONTADOR DE PALAVRAS.exe
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\bin\Debug\CONTADOR DE PALAVRAS.pdb
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\obj\Debug\CONTADOR DE PALAVRAS.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\obj\Debug\CONTADOR_DE_PALAVRAS.Form1.resources
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\obj\Debug\CONTADOR_DE_PALAVRAS.Properties.Resources.resources
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\obj\Debug\CONTADOR DE PALAVRAS.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\obj\Debug\CONTADOR DE PALAVRAS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\obj\Debug\CONTADOR DE PALAVRAS.exe
+C:\Users\Usuario\source\repos\atividade\atividades\contador de palavras\CONTADOR DE PALAVRAS\CONTADOR DE PALAVRAS\obj\Debug\CONTADOR DE PALAVRAS.pdb
